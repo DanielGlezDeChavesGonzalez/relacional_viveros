@@ -13,7 +13,6 @@ sudo -i -u postgres
 psql
 
 \c viveros ;
-
 \c postgres ;
 
 DROP DATABASE viveros;
